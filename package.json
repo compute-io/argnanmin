@@ -1,7 +1,7 @@
 {
   "name": "compute-argnanmin",
   "version": "0.0.0",
-  "description": "Computes the minimum value of an array ignoring any non-numeric values and returns the corresponding array indices.",
+  "description": "Computes the minimum value of an array ignoring non-numeric values and returns the corresponding array indices.",
   "author": {
     "name": "Athan Reines",
     "email": "kgryte@gmail.com"
@@ -25,7 +25,15 @@
   "keywords": [
     "compute.io",
     "compute",
-    "computation"
+    "computation",
+    "mathematics",
+    "math",
+    "statistics",
+    "stats",
+    "array",
+    "min",
+    "minimum",
+    "nan"
   ],
   "bugs": {
     "url": "https://github.com/compute-io/argnanmin/issues"
